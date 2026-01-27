@@ -1,0 +1,126 @@
+{
+  "lastUpdated": "2026-01-27T22:58:37.311Z",
+  "totalPicks": 7,
+  "stocks": [
+    {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "price": 86.38,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "STRONG BUY",
+      "timeframe": "24h",
+      "algorithm": "Technical Momentum",
+      "score": 85,
+      "risk": "High",
+      "indicators": {
+        "rsi": 59,
+        "volumeSurge": 2.34,
+        "breakout": true,
+        "bollingerSqueeze": true
+      }
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "price": 26.5,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "STRONG BUY",
+      "timeframe": "1m",
+      "algorithm": "Composite Rating",
+      "score": 75,
+      "risk": "Medium",
+      "indicators": {
+        "rsi": 65,
+        "volumeSurge": 1.42
+      }
+    },
+    {
+      "symbol": "F",
+      "name": "Ford Motor Company",
+      "price": 13.93,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "7d",
+      "algorithm": "Technical Momentum",
+      "score": 70,
+      "risk": "High",
+      "indicators": {
+        "rsi": 52,
+        "volumeSurge": 1.81,
+        "breakout": false,
+        "bollingerSqueeze": true
+      }
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "price": 282.7,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "24h",
+      "algorithm": "Technical Momentum",
+      "score": 70,
+      "risk": "High",
+      "indicators": {
+        "rsi": 26,
+        "volumeSurge": 8.16,
+        "breakout": false,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "price": 95.72,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "STRONG BUY",
+      "timeframe": "1m",
+      "algorithm": "Composite Rating",
+      "score": 70,
+      "risk": "Medium",
+      "indicators": {
+        "rsi": 68,
+        "volumeSurge": 1.7
+      }
+    },
+    {
+      "symbol": "GME",
+      "name": "GameStop Corp.",
+      "price": 24.21,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "24h",
+      "algorithm": "Technical Momentum",
+      "score": 60,
+      "risk": "High",
+      "indicators": {
+        "rsi": 84,
+        "volumeSurge": 2.25,
+        "breakout": false,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "price": 43.93,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "1m",
+      "algorithm": "Composite Rating",
+      "score": 60,
+      "risk": "Medium",
+      "indicators": {
+        "rsi": 55,
+        "volumeSurge": 1.15
+      }
+    }
+  ]
+}
