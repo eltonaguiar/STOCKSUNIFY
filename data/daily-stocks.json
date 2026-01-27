@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-01-27T23:01:52.050Z",
-  "totalPicks": 7,
+  "lastUpdated": "2026-01-27T23:16:49.993Z",
+  "totalPicks": 30,
   "stocks": [
+    {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "price": 86.38,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "STRONG BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 100,
+      "risk": "High",
+      "indicators": {
+        "rsi": 59,
+        "volumeSurge": 2.34,
+        "breakout": true,
+        "bollingerSqueeze": true
+      }
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "price": 26.5,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "STRONG BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 90,
+      "risk": "High",
+      "indicators": {
+        "rsi": 65,
+        "volumeSurge": 1.42,
+        "breakout": true,
+        "bollingerSqueeze": true
+      }
+    },
     {
       "symbol": "GM",
       "name": "General Motors Company",
@@ -37,21 +73,51 @@
       }
     },
     {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "price": 95.72,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "STRONG BUY",
+      "timeframe": "1m",
+      "algorithm": "Composite Rating",
+      "score": 70,
+      "risk": "Medium",
+      "indicators": {
+        "rsi": 68,
+        "volumeSurge": 1.7
+      }
+    },
+    {
       "symbol": "F",
       "name": "Ford Motor Company",
       "price": 13.93,
       "change": 0,
       "changePercent": 0,
-      "rating": "BUY",
-      "timeframe": "7d",
-      "algorithm": "Technical Momentum",
+      "rating": "STRONG BUY",
+      "timeframe": "1m",
+      "algorithm": "Composite Rating",
       "score": 70,
-      "risk": "High",
+      "risk": "Medium",
       "indicators": {
         "rsi": 52,
-        "volumeSurge": 1.81,
-        "breakout": false,
-        "bollingerSqueeze": true
+        "volumeSurge": 1.81
+      }
+    },
+    {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "price": 86.38,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "STRONG BUY",
+      "timeframe": "1m",
+      "algorithm": "Composite Rating",
+      "score": 70,
+      "risk": "Medium",
+      "indicators": {
+        "rsi": 59,
+        "volumeSurge": 2.34
       }
     },
     {
@@ -73,19 +139,147 @@
       }
     },
     {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 480.58,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 70,
+      "risk": "High",
+      "indicators": {
+        "rsi": 51,
+        "volumeSurge": 1.17,
+        "breakout": true,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 334.55,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 70,
+      "risk": "High",
+      "indicators": {
+        "rsi": 69,
+        "volumeSurge": 0.54,
+        "breakout": true,
+        "bollingerSqueeze": true
+      }
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 672.97,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 70,
+      "risk": "High",
+      "indicators": {
+        "rsi": 54,
+        "volumeSurge": 0.81,
+        "breakout": true,
+        "bollingerSqueeze": false
+      }
+    },
+    {
       "symbol": "SBUX",
       "name": "Starbucks Corporation",
       "price": 95.72,
       "change": 0,
       "changePercent": 0,
-      "rating": "STRONG BUY",
-      "timeframe": "1m",
-      "algorithm": "Composite Rating",
+      "rating": "BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
       "score": 70,
-      "risk": "Medium",
+      "risk": "High",
       "indicators": {
         "rsi": 68,
-        "volumeSurge": 1.7
+        "volumeSurge": 1.7,
+        "breakout": false,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "F",
+      "name": "Ford Motor Company",
+      "price": 13.93,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 70,
+      "risk": "High",
+      "indicators": {
+        "rsi": 52,
+        "volumeSurge": 1.81,
+        "breakout": false,
+        "bollingerSqueeze": true
+      }
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "price": 26.5,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "7d",
+      "algorithm": "Technical Momentum",
+      "score": 70,
+      "risk": "High",
+      "indicators": {
+        "rsi": 65,
+        "volumeSurge": 1.42,
+        "breakout": true,
+        "bollingerSqueeze": true
+      }
+    },
+    {
+      "symbol": "F",
+      "name": "Ford Motor Company",
+      "price": 13.93,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "7d",
+      "algorithm": "Technical Momentum",
+      "score": 70,
+      "risk": "High",
+      "indicators": {
+        "rsi": 52,
+        "volumeSurge": 1.81,
+        "breakout": false,
+        "bollingerSqueeze": true
+      }
+    },
+    {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "price": 86.38,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "7d",
+      "algorithm": "Technical Momentum",
+      "score": 70,
+      "risk": "High",
+      "indicators": {
+        "rsi": 59,
+        "volumeSurge": 2.34,
+        "breakout": true,
+        "bollingerSqueeze": true
       }
     },
     {
@@ -96,6 +290,114 @@
       "changePercent": 0,
       "rating": "BUY",
       "timeframe": "24h",
+      "algorithm": "Technical Momentum",
+      "score": 60,
+      "risk": "High",
+      "indicators": {
+        "rsi": 84,
+        "volumeSurge": 2.25,
+        "breakout": false,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "price": 136.83,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 60,
+      "risk": "High",
+      "indicators": {
+        "rsi": 82,
+        "volumeSurge": 0.71,
+        "breakout": true,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "price": 169.05,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 60,
+      "risk": "High",
+      "indicators": {
+        "rsi": 82,
+        "volumeSurge": 0.99,
+        "breakout": true,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB N.V.",
+      "price": 50.66,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 60,
+      "risk": "High",
+      "indicators": {
+        "rsi": 81,
+        "volumeSurge": 1.01,
+        "breakout": true,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "price": 224.44,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 60,
+      "risk": "High",
+      "indicators": {
+        "rsi": 84,
+        "volumeSurge": 0.77,
+        "breakout": true,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "price": 282.7,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 60,
+      "risk": "High",
+      "indicators": {
+        "rsi": 26,
+        "volumeSurge": 8.16,
+        "breakout": false,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "GME",
+      "name": "GameStop Corp.",
+      "price": 24.21,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "3d",
       "algorithm": "Technical Momentum",
       "score": 60,
       "risk": "High",
@@ -120,6 +422,112 @@
       "indicators": {
         "rsi": 55,
         "volumeSurge": 1.15
+      }
+    },
+    {
+      "symbol": "GME",
+      "name": "GameStop Corp.",
+      "price": 24.21,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "1m",
+      "algorithm": "Composite Rating",
+      "score": 60,
+      "risk": "Medium",
+      "indicators": {
+        "rsi": 84,
+        "volumeSurge": 2.25
+      }
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 244.68,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "3d",
+      "algorithm": "Technical Momentum",
+      "score": 55,
+      "risk": "High",
+      "indicators": {
+        "rsi": 54,
+        "volumeSurge": 0.93,
+        "breakout": true,
+        "bollingerSqueeze": true
+      }
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "price": 136.83,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "24h",
+      "algorithm": "Technical Momentum",
+      "score": 50,
+      "risk": "High",
+      "indicators": {
+        "rsi": 82,
+        "volumeSurge": 0.71,
+        "breakout": true,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "price": 169.05,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "24h",
+      "algorithm": "Technical Momentum",
+      "score": 50,
+      "risk": "High",
+      "indicators": {
+        "rsi": 82,
+        "volumeSurge": 0.99,
+        "breakout": true,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB N.V.",
+      "price": 50.66,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "24h",
+      "algorithm": "Technical Momentum",
+      "score": 50,
+      "risk": "High",
+      "indicators": {
+        "rsi": 81,
+        "volumeSurge": 1.01,
+        "breakout": true,
+        "bollingerSqueeze": false
+      }
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "price": 224.44,
+      "change": 0,
+      "changePercent": 0,
+      "rating": "BUY",
+      "timeframe": "24h",
+      "algorithm": "Technical Momentum",
+      "score": 50,
+      "risk": "High",
+      "indicators": {
+        "rsi": 84,
+        "volumeSurge": 0.77,
+        "breakout": true,
+        "bollingerSqueeze": false
       }
     }
   ]
