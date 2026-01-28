@@ -26,6 +26,8 @@ This repository consolidates stock analysis data, algorithms, and daily picks fr
 
 #### 3D Timeframe (14 picks)
 
+**Last updated:** 2026-01-27, 6:16:49 p.m.
+
 | Symbol | Name | Score | Rating | Risk | Key Indicators |
 |--------|------|-------|--------|------|----------------|
 | GM | General Motors Company | 100/100 | STRONG BUY | High | RSI: 59, Vol: 2.34x, Breakout, Bollinger Squeeze |
@@ -41,6 +43,8 @@ This repository consolidates stock analysis data, algorithms, and daily picks fr
 
 #### 24H Timeframe (7 picks)
 
+**Last updated:** 2026-01-27, 6:16:49 p.m.
+
 | Symbol | Name | Score | Rating | Risk | Key Indicators |
 |--------|------|-------|--------|------|----------------|
 | GM | General Motors Company | 85/100 | STRONG BUY | High | RSI: 59, Vol: 2.34x, Breakout, Bollinger Squeeze |
@@ -53,6 +57,8 @@ This repository consolidates stock analysis data, algorithms, and daily picks fr
 
 #### 7D Timeframe (3 picks)
 
+**Last updated:** 2026-01-27, 6:16:49 p.m.
+
 | Symbol | Name | Score | Rating | Risk | Key Indicators |
 |--------|------|-------|--------|------|----------------|
 | PFE | Pfizer Inc. | 70/100 | BUY | High | RSI: 65, Vol: 1.42x, Breakout, Bollinger Squeeze |
@@ -64,6 +70,8 @@ This repository consolidates stock analysis data, algorithms, and daily picks fr
 **Total Picks:** 6
 
 #### 1M Timeframe (6 picks)
+
+**Last updated:** 2026-01-27, 6:16:49 p.m.
 
 | Symbol | Name | Score | Rating | Risk | Key Indicators |
 |--------|------|-------|--------|------|----------------|
@@ -78,15 +86,17 @@ This repository consolidates stock analysis data, algorithms, and daily picks fr
 
 ## 📚 Analysis Documents
 
+All links point to this repository ([STOCKSUNIFY](https://github.com/eltonaguiar/STOCKSUNIFY)):
+
 ### Comprehensive Analysis
-- [Stock Repository Analysis](./STOCK_REPOSITORY_ANALYSIS.md) - Analysis of 11 stock repositories
-- [Algorithm Summary](./STOCK_ALGORITHM_SUMMARY.md) - Quick reference guide
-- [Decision Matrix](./STOCK_ALGORITHM_DECISION_MATRIX.md) - Visual algorithm selector
+- [Stock Repository Analysis](https://github.com/eltonaguiar/STOCKSUNIFY/blob/main/STOCK_REPOSITORY_ANALYSIS.md) - Analysis of 11 stock repositories
+- [Algorithm Summary](https://github.com/eltonaguiar/STOCKSUNIFY/blob/main/STOCK_ALGORITHM_SUMMARY.md) - Quick reference guide
+- [Decision Matrix](https://github.com/eltonaguiar/STOCKSUNIFY/blob/main/STOCK_ALGORITHM_DECISION_MATRIX.md) - Visual algorithm selector
 
 ### AI Assessments
-- [Google Gemini Analysis](./STOCK_GOOGLEGEMINI_ANALYSIS.md) - Gemini's assessment
-- [Comet Browser AI Analysis](./STOCK_COMETBROWSERAI_ANALYSIS.md) - Comet Browser AI breakdown
-- [ChatGPT Analysis](./STOCK_CHATGPT_ANALYSIS.md) - ChatGPT code inspection
+- [Google Gemini Analysis](https://github.com/eltonaguiar/STOCKSUNIFY/blob/main/STOCK_GOOGLEGEMINI_ANALYSIS.md) - Gemini's assessment
+- [Comet Browser AI Analysis](https://github.com/eltonaguiar/STOCKSUNIFY/blob/main/STOCK_COMETBROWSERAI_ANALYSIS.md) - Comet Browser AI breakdown
+- [ChatGPT Analysis](https://github.com/eltonaguiar/STOCKSUNIFY/blob/main/STOCK_CHATGPT_ANALYSIS.md) - ChatGPT code inspection
 
 ## ⚠️ Methodologies Not Yet Automated
 
@@ -288,4 +298,4 @@ This README is automatically updated when `npm run stocks:sync` is run. The dail
 ---
 
 *Powered by 11+ AI-validated stock analysis algorithms*  
-*Last README Update: 2026-01-28T00:00:08.280Z*
+*Last README Update: 2026-01-28T00:05:17.920Z*
