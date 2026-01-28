@@ -11,76 +11,89 @@ This repository consolidates stock analysis data, algorithms, and daily picks fr
 
 ## 📊 Daily Stock Picks
 
-**Last Updated:** 2026-01-27, 6:16:49 p.m.  
+**Last Updated:** 2026-01-27, 9:50:07 p.m.  
 **Total Picks:** 30  
 **Data Source:** [data/daily-stocks.json](./data/daily-stocks.json)
 
 ### Summary by Rating
-- **STRONG BUY:** 7
-- **BUY:** 23
-- **HOLD:** 0
+- **STRONG BUY:** 9
+- **BUY:** 20
+- **HOLD:** 1
 
 ### Technical Momentum
 
-**Total Picks:** 24
+**Total Picks:** 17
 
-#### 3D Timeframe (14 picks)
+#### 3D Timeframe (6 picks)
 
-**Last updated:** 2026-01-27, 6:16:49 p.m.
-
-| Symbol | Name | Score | Rating | Risk | Key Indicators |
-|--------|------|-------|--------|------|----------------|
-| GM | General Motors Company | 100/100 | STRONG BUY | High | RSI: 59, Vol: 2.34x, Breakout, Bollinger Squeeze |
-| PFE | Pfizer Inc. | 90/100 | STRONG BUY | High | RSI: 65, Vol: 1.42x, Breakout, Bollinger Squeeze |
-| MSFT | Microsoft Corporation | 70/100 | BUY | High | RSI: 51, Vol: 1.17x, Breakout |
-| GOOGL | Alphabet Inc. | 70/100 | BUY | High | RSI: 69, Vol: 0.54x, Breakout, Bollinger Squeeze |
-| META | Meta Platforms, Inc. | 70/100 | BUY | High | RSI: 54, Vol: 0.81x, Breakout |
-| SBUX | Starbucks Corporation | 70/100 | BUY | High | RSI: 68, Vol: 1.7x |
-| F | Ford Motor Company | 70/100 | BUY | High | RSI: 52, Vol: 1.81x, Bollinger Squeeze |
-| XOM | Exxon Mobil Corporation | 60/100 | BUY | High | RSI: 82, Vol: 0.71x, Breakout |
-| CVX | Chevron Corporation | 60/100 | BUY | High | RSI: 82, Vol: 0.99x, Breakout |
-| SLB | SLB N.V. | 60/100 | BUY | High | RSI: 81, Vol: 1.01x, Breakout |
-
-#### 24H Timeframe (7 picks)
-
-**Last updated:** 2026-01-27, 6:16:49 p.m.
+**Last updated:** 2026-01-27, 9:50:07 p.m.
 
 | Symbol | Name | Score | Rating | Risk | Key Indicators |
 |--------|------|-------|--------|------|----------------|
-| GM | General Motors Company | 85/100 | STRONG BUY | High | RSI: 59, Vol: 2.34x, Breakout, Bollinger Squeeze |
+| GM | General Motors Company | 100/100 | STRONG BUY | High | RSI: 59, Vol: 2.33x, Breakout, Bollinger Squeeze |
+| PFE | Pfizer Inc. | 85/100 | STRONG BUY | High | RSI: 65, Vol: 1.42x, Breakout, Bollinger Squeeze |
+| MSFT | Microsoft Corporation | 55/100 | BUY | High | RSI: 51, Vol: 1.17x, Breakout |
+| GOOGL | Alphabet Inc. | 55/100 | BUY | High | RSI: 69, Vol: 0.54x, Breakout, Bollinger Squeeze |
+| AMZN | Amazon.com, Inc. | 55/100 | BUY | High | RSI: 54, Vol: 0.93x, Breakout, Bollinger Squeeze |
+| META | Meta Platforms, Inc. | 55/100 | BUY | High | RSI: 54, Vol: 0.81x, Breakout |
+
+#### 7D Timeframe (6 picks)
+
+**Last updated:** 2026-01-27, 9:50:07 p.m.
+
+| Symbol | Name | Score | Rating | Risk | Key Indicators |
+|--------|------|-------|--------|------|----------------|
+| PFE | Pfizer Inc. | 80/100 | STRONG BUY | High | RSI: 65, Vol: 1.42x, Breakout, Bollinger Squeeze |
+| F | Ford Motor Company | 80/100 | STRONG BUY | High | RSI: 52, Vol: 1.81x, Bollinger Squeeze |
+| GM | General Motors Company | 80/100 | STRONG BUY | High | RSI: 59, Vol: 2.33x, Breakout, Bollinger Squeeze |
+| AMZN | Amazon.com, Inc. | 55/100 | BUY | High | RSI: 54, Vol: 0.93x, Breakout, Bollinger Squeeze |
+| NVDA | NVIDIA Corporation | 55/100 | BUY | High | RSI: 52, Vol: 0.77x, Bollinger Squeeze |
+| ABBV | AbbVie Inc. | 55/100 | BUY | High | RSI: 50, Vol: 0.91x, Bollinger Squeeze |
+
+#### 24H Timeframe (5 picks)
+
+**Last updated:** 2026-01-27, 9:50:07 p.m.
+
+| Symbol | Name | Score | Rating | Risk | Key Indicators |
+|--------|------|-------|--------|------|----------------|
 | UNH | UnitedHealth Group Incorporate | 70/100 | BUY | High | RSI: 26, Vol: 8.16x |
-| GME | GameStop Corp. | 60/100 | BUY | High | RSI: 84, Vol: 2.25x |
+| GM | General Motors Company | 70/100 | BUY | High | RSI: 59, Vol: 2.33x, Breakout, Bollinger Squeeze |
+| PFE | Pfizer Inc. | 60/100 | BUY | High | RSI: 65, Vol: 1.42x, Breakout, Bollinger Squeeze |
 | XOM | Exxon Mobil Corporation | 50/100 | BUY | High | RSI: 82, Vol: 0.71x, Breakout |
 | CVX | Chevron Corporation | 50/100 | BUY | High | RSI: 82, Vol: 0.99x, Breakout |
-| SLB | SLB N.V. | 50/100 | BUY | High | RSI: 81, Vol: 1.01x, Breakout |
-| JNJ | Johnson & Johnson | 50/100 | BUY | High | RSI: 84, Vol: 0.77x, Breakout |
-
-#### 7D Timeframe (3 picks)
-
-**Last updated:** 2026-01-27, 6:16:49 p.m.
-
-| Symbol | Name | Score | Rating | Risk | Key Indicators |
-|--------|------|-------|--------|------|----------------|
-| PFE | Pfizer Inc. | 70/100 | BUY | High | RSI: 65, Vol: 1.42x, Breakout, Bollinger Squeeze |
-| F | Ford Motor Company | 70/100 | BUY | High | RSI: 52, Vol: 1.81x, Bollinger Squeeze |
-| GM | General Motors Company | 70/100 | BUY | High | RSI: 59, Vol: 2.34x, Breakout, Bollinger Squeeze |
 
 ### Composite Rating
 
-**Total Picks:** 6
+**Total Picks:** 12
 
-#### 1M Timeframe (6 picks)
+#### 1M Timeframe (12 picks)
 
-**Last updated:** 2026-01-27, 6:16:49 p.m.
+**Last updated:** 2026-01-27, 9:50:07 p.m.
 
 | Symbol | Name | Score | Rating | Risk | Key Indicators |
 |--------|------|-------|--------|------|----------------|
-| PFE | Pfizer Inc. | 75/100 | STRONG BUY | Medium | RSI: 65, Vol: 1.42x |
-| SBUX | Starbucks Corporation | 70/100 | STRONG BUY | Medium | RSI: 68, Vol: 1.7x |
-| F | Ford Motor Company | 70/100 | STRONG BUY | Medium | RSI: 52, Vol: 1.81x |
-| GM | General Motors Company | 70/100 | STRONG BUY | Medium | RSI: 59, Vol: 2.34x |
-| INTC | Intel Corporation | 60/100 | BUY | Medium | RSI: 55, Vol: 1.15x |
-| GME | GameStop Corp. | 60/100 | BUY | Medium | RSI: 84, Vol: 2.25x |
+| PFE | Pfizer Inc. | 75/100 | STRONG BUY | Medium | RSI: 65 |
+| GM | General Motors Company | 75/100 | STRONG BUY | Medium | RSI: 59 |
+| SBUX | Starbucks Corporation | 70/100 | STRONG BUY | Medium | RSI: 68 |
+| F | Ford Motor Company | 70/100 | STRONG BUY | Medium | RSI: 52 |
+| MSFT | Microsoft Corporation | 55/100 | BUY | Medium | RSI: 51 |
+| GOOGL | Alphabet Inc. | 55/100 | BUY | Medium | RSI: 69 |
+| AMZN | Amazon.com, Inc. | 55/100 | BUY | Medium | RSI: 54 |
+| NVDA | NVIDIA Corporation | 55/100 | BUY | Medium | RSI: 52 |
+| WMT | Walmart Inc. | 55/100 | BUY | Medium | RSI: 59 |
+| GME | GameStop Corp. | 55/100 | BUY | Medium | RSI: 84 |
+
+### CAN SLIM
+
+**Total Picks:** 1
+
+#### 3M Timeframe (1 picks)
+
+**Last updated:** 2026-01-27, 9:50:07 p.m.
+
+| Symbol | Name | Score | Rating | Risk | Key Indicators |
+|--------|------|-------|--------|------|----------------|
+| PFE | Pfizer Inc. | 45/100 | HOLD | Medium | RSI: 65, Vol: 1.42x, RS: 50, Stage-2 |
 
 
 
@@ -298,4 +311,4 @@ This README is automatically updated when `npm run stocks:sync` is run. The dail
 ---
 
 *Powered by 11+ AI-validated stock analysis algorithms*  
-*Last README Update: 2026-01-28T00:05:17.920Z*
+*Last README Update: 2026-01-28T02:50:12.200Z*
